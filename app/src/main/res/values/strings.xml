@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">Dicoding Story</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">This is the place that you can share your stories to the others.</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="story_image">Story Image</string>
+    <string name="empty_image_warning">No Media Selected</string>
+    <string name="ok">OK</string>
+    <string name="gagal_membuat_akun">Failed to Make an Account!</string>
+    <string name="lanjut">Continue</string>
+    <string name="akun_sudah_jadi_nih_yuk_login_ke_story_app">Your account is ready. Let\'s log in to the Story App</string>
+    <string name="yeah" translatable="false">Yeah!</string>
+    <string name="gagal_login">Login Failed!</string>
+    <string name="anda_berhasil_login">You are logged in successfully</string>
+    <string name="gagal">Failed</string>
+    <string name="berhasil">Success</string>
+    <string name="story_anda_berhasil_ditambahkan">Your story has been successfully added</string>
+    <string name="ya">Yes</string>
+    <string name="apakah_anda_yakin">Are you sure you want to log out?</string>
+    <string name="batal">Cancel</string>
+    <string name="error_label_password">Password cannot be less than 8 characters</string>
+    <string name="error_invalid_email_label">Email Invalid</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="maps" translatable="false">Maps</string>
+    <string name="label_checkbox_addLocation">Post With Your Location</string>
+    <string name="image_post">Image Post</string>
+    <string name="gambar_login">Login Image</string>
+    <string name="gambar_signup">Signup Image</string>
+    <string name="gambar_welcome">Welcome image</string>
+    <string name="normal_type" translatable="false">Normal</string>
+    <string name="satellite_type" translatable="false">Satellite</string>
+    <string name="terrain_type" translatable="false">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="welcome">Welcome to Dicoding Story</string>
+    <string name="welcome2">Share your stories and learning experiences here!</string>
+    <string name="title_login_page">Login</string>
+    <string name="title_signup_page">Sign Up</string>
+</resources>

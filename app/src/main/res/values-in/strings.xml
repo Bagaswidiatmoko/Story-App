@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Di sinilah Anda dapat berbagi cerita dengan orang lain.</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Ceri!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="story_image">Gambar Cerita</string>
+    <string name="empty_image_warning">Tidak ada foto yang dipilih</string>
+    <string name="ok">OK</string>
+    <string name="gagal_membuat_akun">Gagal Membuat Akun!</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="akun_sudah_jadi_nih_yuk_login_ke_story_app">Akun sudah jadi nih. Yuk, login ke Story App</string>
+    <string name="gagal_login">Gagal Login!</string>
+    <string name="anda_berhasil_login">Anda berhasil login</string>
+    <string name="gagal">Gagal</string>
+    <string name="berhasil">Berhasil</string>
+    <string name="story_anda_berhasil_ditambahkan">Story Anda berhasil ditambahkan</string>
+    <string name="ya">Ya</string>
+    <string name="apakah_anda_yakin">Apakah anda yakin ingin logout?</string>
+    <string name="batal">Batal</string>
+    <string name="error_label_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="error_invalid_email_label">Email Tidak Valid</string>
+    <string name="retry">Ulangi</string>
+    <string name="label_checkbox_addLocation">Posting Dengan Lokasi Anda</string>
+    <string name="image_post">Posting Gambar</string>
+    <string name="gambar_login">Gambar Login</string>
+    <string name="gambar_signup">Gambar Signup</string>
+    <string name="gambar_welcome">Gambar Welcome</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="welcome">Selamat datang di Dicoding Story</string>
+    <string name="welcome2">Bagikan cerita dan pengalaman belajar Anda di sini!</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="title_signup_page">Daftar</string>
+</resources>
